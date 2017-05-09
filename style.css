@@ -1,7 +1,7 @@
 
 
 body {
-    background-image: url('http://assets.simplyrecipes.com/wp-content/uploads/2006/11/15112020/reuben-sandwich-horiz-a-1800.jpg');
+    background-image: url('https://media.whatscookingamerica.net/2015/05/23010626/Reuben-Sandwich2.jpg');
     background-repeat: no-repeat;
     background-color: transparent;
     /*background: #000000;
@@ -11,15 +11,13 @@ body {
     background: linear-gradient(#000000, #001f3a);*/
 }
 
-
-
 #jumboImg{
   background-image: url(images/st-of-rage-copy.png);
   background-size: cover;
 }
 
 #arenaName{
-  color: #da4300;
+  color: #DED630;
 
 }
 
