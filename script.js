@@ -60,7 +60,9 @@ $(function() {
     }
     $('#clickedSeats').text(selected.join(', '));
   }
+/*when function submitter is fired (click of submit button'make reservation')
 
+*/
   function submitter () {
     for (var i = 0; i < seatArray.length; i++) {
       if (seatArray[i].status === "sel"){
