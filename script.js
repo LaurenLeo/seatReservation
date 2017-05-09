@@ -68,6 +68,7 @@ $(function() {
         seatArray[i].who = $('#fName').val() + ' ' + $('#lName').val();
         $('#' + seatArray[i].number).removeClass('sel').addClass(seatArray[i].status).attr('title', seatArray[i].who);
       }
+      selected = [];
     }
     $('.form-control').val('');
     $('#clickedSeats').text('');
